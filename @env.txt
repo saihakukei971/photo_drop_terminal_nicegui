@@ -1,0 +1,7 @@
+# Slack設定
+SLACK_ENABLED=false
+SLACK_TOKEN=xoxb-your-slack-token-here
+SLACK_CHANNEL=your-channel-id-here
+
+# デバッグ設定
+DEBUG=false
